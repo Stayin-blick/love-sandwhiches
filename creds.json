@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "lovesandwhichs",
+  "private_key_id": "a4182561a62bde9e7cd197e7f018a58e5e619400",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQDHcjZAZhWCycmj\nmHBIlyT+ZOv5ULj7KmP+UiJKpNt89WmFQpk+0YHxfnCCy/N/KeZiyI00xKzhg/Kq\nbx49ugouoUWywUtgd5rCIQuIuf0gfA0/ySe5ak5rPQ0+0vg7GNIU7I0sB7w328K/\nM0g2ugznYtxiXKxhiDQJfS3C83P5NR8xFXMWKNxumw32MrPClEqWzRnL7x7Yy2Jr\nVJCzQz62AaVeEgKofH0vUkQmiAkxvANmO/+dgd8r/KBSyzaQfTku8gcm9Fo+1NIu\nvL6CAK/VHp4XitOqOMIikAcRoA/shiNX5pinX+kJtaTPxNOZbVHRlRMCqlwCG1Hg\nY9R98DoLAgMBAAECggEAA9mHhIyz45djhf3eRPht5V8rUt+lAmwaDAGn2cr+1ZWj\nGMhlTtoaaP/oyg2HwK+dW9DFMPyO3bd/Spzkd4qMwcOpJb8nZlBIs3CR2WzFnwfl\n9ZI7aw/LPbSq+ch2tCVRgMfkHbJ0hpt+UdR6k1vZ/elhmaByT1uirYA2DupGFcxQ\n9Qi+3kxRcq9CyWEHOiA2zrEpgZjfwm4mGBflyORHFE4PuNiizpfsEvXxdK5mDDsj\nt5RMsMPqFot+sBtrQzCvGiB6z0UVHfhkCjx2S1HSmnOPacjQx+Q5HFuymJPMzMn2\nUwVesDJkD4E+/3ae+ubttOgDE1zvnQFkNbyqnMxR4QKBgQDxBwLgPxXxsL0N8ekq\n7CUWHIYrtL1Fjc3OiIO5bpNuhZipskTlW12Vn7oRDiEiu33hRGnqWbvbnBNsfetS\nu48hScf2taeQxxGWNB3fz/2+5rKw30qYnEgNs6jvH4hTzJu0Xv6fpvNNPc8HQGCK\nXzbXrz/ila5vfN4eSA+1SdNLewKBgQDT1fI2wJKqL0ERFr2SuQBRo11aaHibTj8+\nCA3HhqWzVZ4zi1ltmKj9PQYAx+M2EaBLRTt2y3E/+nFZ9Tt9TviOub0zgOeF3XPn\nDvVgqXz8nQj+jc7JySIVQGVh9UAiADEJyjhffUV/sB0nbxbj745isUOWJIhf4lQ6\ncx4EmU/+sQKBgAXgg+Nv5lsUUifK5EKVq3nUjDj4mTze7kvA7GVTGukw/L32iNOG\n3MtPL7xGuewc4j7h6is6sOfz8E1O7LQBusW3BNcxKrrO/9DHyIqyiZ9kBKtnZmw+\nM0uSO+ZIwIw6ivlk75R4/6m8fhXRLglxtOahcU9XEv/I7amTXD6xZCONAoGANWub\npGEV22MFRpj0f561zOCktxrnZ0rpOexwBSQYf0wVFCyNBc1cuFf+Po4p50W0paa0\n4zVUvuyaTzQ/p08V8XA3nVhhimmZQ+iKyrCTO2UikocSYeKd/Lv7lSNy4+AmfbCI\nXNRLhXLVN0+Vdy+/OXY4dBGMbpm14fOL218KRFECgYEAs1jpUMqru/nKLxHwX3Wu\nSqjaKPHkD7tBefQtTEGcQwHoXW4QLLD+ZNp+rNjy1YZd8kpF/dseq0FTh14vgyW6\nDC6FwjLO0Pc0w6HfDBgIAJ4d6BBnRSiNzzpw/sg18z7cHVtjv15EQoFI19eTJvw0\nA7doH6/5kMFYniTTa4x3ea8=\n-----END PRIVATE KEY-----\n",
+  "client_email": "lovesandwhiches@lovesandwhichs.iam.gserviceaccount.com",
+  "client_id": "109073383833592001807",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/lovesandwhiches%40lovesandwhichs.iam.gserviceaccount.com"
+}
